@@ -1,1 +1,1 @@
-THIS IS VERSION ONE
+# Knowledge comes, but wisdom lingers.
